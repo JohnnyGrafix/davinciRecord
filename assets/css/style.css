@@ -4,8 +4,9 @@ body {
 #pageOne {
 	position: relative;
 	width: 100%;
-	max-width: 400px;
+	max-width: 600px;
 	border: 1px solid red;
+	margin-bottom: 100px;
 }
 #p1Text1 {
 	position: absolute;
@@ -33,4 +34,59 @@ body {
 	width: 28%;
 	top: 63.5%;
 	left: 36.5%;
+}
+#pageTwo {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	border: 1px solid yellow;
+	
+}
+#p2Text1 {
+	position: absolute;
+	font-size: 1rem;
+	top: 2%;
+	left: 40%;
+}
+#p2Text2 {
+	position: absolute;
+	font-size: 1rem;
+	top: 70%;
+	left: 35%;
+}
+#p2Button {
+	position: absolute;
+	top: 35%;
+	left: 10%;
+	width: 25%;
+	border: 1px solid yellow;
+	}
+#p2Button2 {
+	position: absolute;
+	top: 35%;
+	left: 65%;
+	width: 25%;
+	border: 1px solid yellow;
+	}
+#p2Text3 {
+	position: absolute;
+	top: 40%;
+	left: 17%;
+	color: white;
+}
+#p2Text4 {
+	position: absolute;
+	top: 40%;
+	left: 72%;
+	color: white;
+}
+#p2Button:hover {
+	width: 28%;
+	top: 33.5%;
+	left: 8.5%;
+}
+#p2Button2:hover {
+	width: 28%;
+	top: 33.5%;
+	left: 63.5%;
 }
