@@ -40,8 +40,8 @@ body {
 	width: 100%;
 	max-width: 600px;
 	border: 1px solid yellow;
-	
-}
+	margin-bottom: 100px;
+	}
 #p2Text1 {
 	position: absolute;
 	font-size: 1rem;
@@ -51,7 +51,7 @@ body {
 #p2Text2 {
 	position: absolute;
 	font-size: 1rem;
-	top: 70%;
+	top: 80%;
 	left: 35%;
 }
 #p2Button {
@@ -89,4 +89,125 @@ body {
 	width: 28%;
 	top: 33.5%;
 	left: 63.5%;
+}
+#pageThree {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	border: 1px solid blue;
+	margin-bottom: 100px;
+}
+#arrowForward {
+	position: absolute;
+	top: 46%;
+	left: 75%;
+	width: 15%;
+	border: 1px solid yellow;
+	}
+
+#arrowForward:hover {
+	width: 16%;
+}
+#arrowBack:hover {
+	width: 16%;
+	left: 7.5%;
+}
+#buttonBack {
+	position: absolute;
+	width: 20%;
+	top: 83%;
+	left: 39%;
+}
+#p3Text1 {
+	position: absolute;
+	top: 12%;
+	left: 36%;
+}
+#pageFour {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	border: 1px solid blue;
+	margin-bottom: 100px;
+}
+#arrowForward4 {
+	position: absolute;
+	top: 46%;
+	left: 75%;
+	width: 15%;
+	border: 1px solid yellow;
+	}
+#arrowBack4 {
+	position: absolute;
+	top: 46%;
+	left: 8%;
+	width: 15%;
+	border: 1px solid yellow;
+	}
+#arrowForward4:hover {
+	width: 16%;
+}
+#arrowBack4:hover {
+	width: 16%;
+	left: 7.5%;
+}
+#buttonBack4 {
+	position: absolute;
+	width: 20%;
+	top: 83%;
+	left: 39%;
+}
+#p4Text1 {
+	position: absolute;
+	top: 12%;
+	left: 36%;
+}
+#p4Text2 {
+	position: absolute;
+	top: 53%;
+	left: 43.5%;
+}
+#pageFive {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	border: 1px solid blue;
+	margin-bottom: 100px;
+}
+#arrowForward5 {
+	position: absolute;
+	top: 46%;
+	left: 75%;
+	width: 15%;
+	border: 1px solid yellow;
+	}
+#arrowBack5 {
+	position: absolute;
+	top: 46%;
+	left: 8%;
+	width: 15%;
+	border: 1px solid yellow;
+	}
+#arrowForward5:hover {
+	width: 16%;
+}
+#arrowBack5:hover {
+	width: 16%;
+	left: 7.5%;
+}
+#buttonBack5 {
+	position: absolute;
+	width: 20%;
+	top: 83%;
+	left: 39%;
+}
+#p5Text1 {
+	position: absolute;
+	top: 12%;
+	left: 36%;
+}
+#p5Text2 {
+	position: absolute;
+	top: 53%;
+	left: 43.5%;
 }
