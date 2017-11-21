@@ -211,3 +211,110 @@ body {
 	top: 53%;
 	left: 43.5%;
 }
+#pageSix {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	border: 1px solid blue;
+	margin-bottom: 100px;
+}
+#arrowForward6 {
+	position: absolute;
+	top: 46%;
+	left: 75%;
+	width: 15%;
+	border: 1px solid yellow;
+	}
+#arrowBack6 {
+	position: absolute;
+	top: 46%;
+	left: 8%;
+	width: 15%;
+	border: 1px solid yellow;
+	}
+#arrowForward6:hover {
+	width: 16%;
+}
+#arrowBack6:hover {
+	width: 16%;
+	left: 7.5%;
+}
+#buttonBack6 {
+	position: absolute;
+	width: 20%;
+	top: 83%;
+	left: 39%;
+}
+#p6Text1 {
+	position: absolute;
+	top: 12%;
+	left: 36%;
+}
+#p6Text2 {
+	position: absolute;
+	top: 53%;
+	left: 43.5%;
+}
+#pageSeven {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	border: 1px solid blue;
+	margin-bottom: 100px;
+}
+#arrowBack7 {
+	position: absolute;
+	top: 46%;
+	left: 8%;
+	width: 15%;
+	border: 1px solid yellow;
+	}
+#arrowBack7:hover {
+	width: 16%;
+	left: 7.5%;
+}
+#buttonBack7 {
+	position: absolute;
+	width: 20%;
+	top: 83%;
+	left: 39%;
+}
+#p7Text1 {
+	position: absolute;
+	top: 12%;
+	left: 36%;
+}
+#p7Text2 {
+	position: absolute;
+	top: 53%;
+	left: 43.5%;
+}
+#pageEight {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	border: 1px solid blue;
+	margin-bottom: 100px;
+}
+#enterButton8 {
+	position: absolute;
+	width: 20%;
+	top: 52%;
+	left: 45%;
+}
+#buttonBack8 {
+	position: absolute;
+	width: 20%;
+	top: 83%;
+	left: 39%;
+}
+#p8Text1 {
+	position: absolute;
+	top: 12%;
+	left: 38%;
+}
+#p8Text2 {
+	position: absolute;
+	top: 35%;
+	left: 35%;
+}
