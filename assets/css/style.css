@@ -6,7 +6,7 @@ body {
 	width: 100%;
 	max-width: 600px;
 	border: 1px solid red;
-	margin-bottom: 100px;
+	margin-bottom: 250px;
 }
 #p1Text1 {
 	position: absolute;
@@ -40,7 +40,7 @@ body {
 	width: 100%;
 	max-width: 600px;
 	border: 1px solid yellow;
-	margin-bottom: 100px;
+	margin-bottom: 250px;
 	}
 #p2Text1 {
 	position: absolute;
@@ -95,7 +95,7 @@ body {
 	width: 100%;
 	max-width: 600px;
 	border: 1px solid blue;
-	margin-bottom: 100px;
+	margin-bottom: 250px;
 }
 #arrowForward {
 	position: absolute;
@@ -128,7 +128,7 @@ body {
 	width: 100%;
 	max-width: 600px;
 	border: 1px solid blue;
-	margin-bottom: 100px;
+	margin-bottom: 250px;
 }
 #arrowForward4 {
 	position: absolute;
@@ -172,7 +172,7 @@ body {
 	width: 100%;
 	max-width: 600px;
 	border: 1px solid blue;
-	margin-bottom: 100px;
+	margin-bottom: 250px;
 }
 #arrowForward5 {
 	position: absolute;
@@ -216,7 +216,7 @@ body {
 	width: 100%;
 	max-width: 600px;
 	border: 1px solid blue;
-	margin-bottom: 100px;
+	margin-bottom: 250px;
 }
 #arrowForward6 {
 	position: absolute;
@@ -260,7 +260,7 @@ body {
 	width: 100%;
 	max-width: 600px;
 	border: 1px solid blue;
-	margin-bottom: 100px;
+    margin-bottom: 250px;
 }
 #arrowBack7 {
 	position: absolute;
@@ -294,7 +294,7 @@ body {
 	width: 100%;
 	max-width: 600px;
 	border: 1px solid blue;
-	margin-bottom: 100px;
+	margin-bottom: 250px;
 }
 #enterButton8 {
 	position: absolute;
