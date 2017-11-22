@@ -299,8 +299,13 @@ body {
 #enterButton8 {
 	position: absolute;
 	width: 20%;
-	top: 52%;
-	left: 45%;
+	top: 56%;
+	left: 39%;
+}
+#enterButton8:hover {
+	width: 23%;
+	top: 54.5;
+	left: 37;
 }
 #buttonBack8 {
 	position: absolute;
@@ -310,11 +315,49 @@ body {
 }
 #p8Text1 {
 	position: absolute;
+	color: #efac1f;
+	font-size: 2rem;
 	top: 12%;
-	left: 38%;
+	left: 20%;
 }
 #p8Text2 {
 	position: absolute;
 	top: 35%;
-	left: 35%;
+	left: 30%;
+}
+#pageNine {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	border: 1px solid blue;
+	margin-bottom: 250px;
+}
+#Neymar {
+	position: absolute;
+	width: 30%;
+	top: 30%;
+	left: 65%;
+}
+#buttonBack9 {
+	position: absolute;
+	width: 20%;
+	top: 83%;
+	left: 39%;
+}
+#arrowForward9 {
+	position: absolute;
+	top: 8%;
+	left: 75%;
+	width: 15%;
+	border: 1px solid yellow;
+	}
+#p9Text1 {
+	position: absolute;
+	top: 17%;
+	left: 8%;
+}
+#p9Text2 {
+	position: absolute;
+	top: 56%;
+	left: 8%;
 }
